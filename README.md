@@ -2,6 +2,8 @@
 
 Automatically download, manage, and update local files from Discord channels with ease using a Discord bot.
 
+Want to run it on the user side? [Try out DFUu!](https://github.com/fr33lo/dfu-user)
+
 ## Overview
 
 Discord File Updater is a powerful Python bot that monitors specified Discord channels (both text and forum) for file attachments, automatically downloads them, and manages versions. It's perfect for server admins, mod developers, or anyone who needs to keep local files synced with Discord uploads.
