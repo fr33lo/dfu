@@ -1,4 +1,4 @@
-# Discord File Updater
+# Discord File Updater (DFU)
 
 Automatically download and manage files from Discord channels with ease.
 
