@@ -27,8 +27,8 @@ Discord File Updater is a powerful Python bot that monitors specified Discord ch
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/discord-file-updater.git
-   cd discord-file-updater
+   git clone https://github.com/fr33lo/dfu.git
+   cd dfu
    ```
 
 2. Install the required dependencies:
