@@ -1,6 +1,6 @@
 # Discord File Updater (DFU)
 
-Automatically download and manage files from Discord channels with ease.
+Automatically download, manage, and update local files from Discord channels with ease using a Discord bot.
 
 ## Overview
 
